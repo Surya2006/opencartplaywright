@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13322","should register a new account successfully","chromium","Fri Nov 21 15:21:04 EST 2025","passed","Fri Nov 21 15:21:17 EST 2025","","tests\AccountRegistration.spec.ts","",""
+"","6110","User login test @master @sanity @regression","chromium","Sun Nov 23 10:13:51 EST 2025","passed","Sun Nov 23 10:13:57 EST 2025","","tests\Login.spec.ts","",""
+"","3348","User login test","chromium","Sun Nov 23 09:39:41 EST 2025","passed","Sun Nov 23 09:39:45 EST 2025","","tests\Login.spec.ts","",""
+"","11302","User registration test @master @sanity @regression","chromium","Sun Nov 23 10:13:51 EST 2025","passed","Sun Nov 23 10:14:02 EST 2025","","tests\AccountRegistration.spec.ts","",""
+"","7883","User login test @master @sanity @regression","chromium","Sun Nov 23 09:31:21 EST 2025","failed","Sun Nov 23 09:31:29 EST 2025","","tests\Login.spec.ts","",""
